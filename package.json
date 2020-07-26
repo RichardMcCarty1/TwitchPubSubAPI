@@ -1,0 +1,19 @@
+{
+  "name": "pubsub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "NODE_PATH=./lib:./ node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "twitch": "^4.2.0-pre.4",
+    "twitch-auth": "^4.2.0-pre.4",
+    "twitch-pubsub-client": "^4.2.0-pre.4"
+  }
+}
