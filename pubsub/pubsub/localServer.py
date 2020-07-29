@@ -17,6 +17,7 @@ class SimpleHTTPRequestHandler(BaseHTTPRequestHandler):
         finname = name[1].replace(' HTTP/1.1', '')
         print(finname)
         #Sample selection structure to run script based on passed POST param
+        #Potentially replace with a switch function structure for neater, less intensive selection
         if finname == "MUTE+ME":
             exec(open("mute.py").read())
         elif finname == "feet":
