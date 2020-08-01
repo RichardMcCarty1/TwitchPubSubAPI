@@ -1,4 +1,4 @@
-ei3ncq3296jzqjaepnexj93xsbjrn7
-[Redacted] :)
-103517596
-[Redacted] :)
+ClientID
+ClientSecret
+StreamID
+AuthCode
