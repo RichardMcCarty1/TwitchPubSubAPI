@@ -15,7 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "twitch": "^4.2.0-pre.4",
     "twitch-auth": "^4.2.0-pre.4",
     "twitch-pubsub-client": "^4.2.0-pre.4"
